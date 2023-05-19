@@ -1,0 +1,19 @@
+# New
+
+# Held pending opsz update to accomodate it being fully live
+# ofl/playfair # https://github.com/google/fonts/pull/6026
+
+# Upgrade
+
+# Axis Registry
+
+# Knowledge
+
+# Metadata / Description / License
+
+# Sample texts
+
+# Article updates
+
+# To add once Kablammo can go to prod
+# axisregistry/morph.textproto # https://github.com/google/fonts/pull/5853

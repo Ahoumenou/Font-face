@@ -1,0 +1,125 @@
+/* -----------------------------
+Nunito---------------------------------- */
+/* Nunito-italic-Thin  */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 100;
+}
+/* Nunito-italic-Light */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight:200 ;
+}
+/* Nunito-italicExtraLight */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 300;
+}
+/* Nunito-italic-Regular */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 400;
+}
+/* Nunito-italic-Meduim */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 500;
+}
+/* Nunito-italic-semibold */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 600;
+}
+/* Nunito-italic-bold */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 700;
+}
+/* Nunito-italic-extrabold */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 800;
+}
+/* Nunito-italic-black */
+@font-face{
+    font-family: "Nunito sans serif";
+    url()
+    font-style:italic;
+    font-weight: 900;
+}
+
+
+/* -----------------------------
+Nunito---------------------------------- */
+/* Nunito-Normale-Thin  */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-Normale-Light */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-NormaleExtraLight */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-Normale-Regular */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-Normale-Meduim */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-Normale-semibold */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-Normale-extrabold */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
+/* Nunito-Normale-black */
+@font-face{
+    font-family: ;
+    url()
+    font-style:;
+    font-weight: ;
+}
